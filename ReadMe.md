@@ -1,6 +1,6 @@
 # AR2OR_INR
 
-This is the official code repository of our work **"Resolution Enhancement of Under-sampled Photoacoustic Microscopy Images using Implicit Neural Representation"** accepted by TCI 2025. [[arXiv]](arXiv:2410.19786))
+This is the official code repository of our work **"Resolution Enhancement of Under-sampled Photoacoustic Microscopy Images using Implicit Neural Representation"** accepted by TCI 2025. [[IEEE Xplore](https://ieeexplore.ieee.org/document/11008680)]
 
 ## Overview
 ![Overview of proposed Spener](Fig/pipeline.png)
