@@ -67,7 +67,13 @@ This code is available for non-commercial research and education purposes only. 
 
 ## Citation
 ```
-@article{xiao2025tci,
-  title={Resolution Enhancement of Under-sampled Photoacoustic Microscopy Images using Implicit Neural Representation}
+@article{xiao2025resolution,
+  title={Resolution Enhancement of Under-Sampled Photoacoustic Microscopy Images Using Neural Representation},
+  author={Xiao, Youshen and Zhang, Zhengyuan and Sun, Ruixi and Shi, Yiling and Liao, Sheng and Zhang, Fan and Jiang, Yunhui and Chen, Xiyu and Sharma, Arunima and Pramanik, Manojit and others},
+  journal={IEEE Transactions on Computational Imaging},
+  volume={11},
+  pages={678--688},
+  year={2025},
+  publisher={IEEE}
 }
 ```
