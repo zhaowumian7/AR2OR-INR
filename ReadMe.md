@@ -66,6 +66,7 @@ This code is available for non-commercial research and education purposes only. 
 
 
 ## Citation
+If you find our work useful in your research, please site:
 ```
 @article{xiao2025resolution,
   title={Resolution Enhancement of Under-Sampled Photoacoustic Microscopy Images Using Neural Representation},
